@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	background-color: #150F17;
+}
+#videoMar{
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+#menu{
+	color: white;
+	width: 100%;
+	height: 50px;
+	background: #116349;
+	position: absolute;
+	opacity: 0.9;
+}
+#menuIzquierda{
+	margin-left: 10%;
+	margin-top: 1%;
+}
+#menuDerecha{
+	margin-right: 10%;
+	margin-top: 1%;
+}
+.izquierda{
+	float: left;
+	margin-right: 3%;
+}
+.derecha{
+	float: right;
+	margin-right: 3%;
+}
+#capa{
+	display: block;
+	background-color: rgba(0,0,255,0.15);
+	position: absolute;
+	width: 100%;
+	height: 119%;
+}
+#apartadoDos{
+	margin: 0;
+	background-color: #474444 ;
+	color: white;
+	width: 100%;
+	/*height: auto;*/
+	padding-bottom: 20px;
+}
+#cuerpo{
+	width: 40%;
+	margin-left: 15%;
+	padding-top: 20px;
+}
+#apartadoDos h2{
+	font-weight: bold;
+}
+#apartadoDos p{
+	font-size: 1.3em;
+}
+#texto{
+	color: white;
+	margin-top: 15%;
+	margin-left: 15%;
+}
+#texto h1{
+	font-weight: bold;
+}
+#texto h3{
+	font-size: 1.3em;
+}
+#entrar{
+	border-radius: 30px;
+	width: 9%;
+	height: 50px;
+	background-color: #D93073;
+	color: white;
+	font-size: 1.2em;
+}
